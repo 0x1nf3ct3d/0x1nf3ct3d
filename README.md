@@ -1,2 +1,2 @@
-![linux penguin gif](pics/AEqualizer.gif)\
+![linux penguin gif](pics/aeq.gif)\
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hsabir?darkmode=false)](https://github.com/JaeSeoKim/badge42)\
