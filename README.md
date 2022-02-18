@@ -32,3 +32,7 @@
     </a>  
     </a>
 </div>
+
+### Mostly used languages:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hypn0x&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hypn0x&theme=nord_dark)
