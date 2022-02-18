@@ -22,7 +22,7 @@
 </a>
 
 
-<a><h2>Stats:</h2></a>
+### Stats:
 <div>
   <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=hypn0x&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
