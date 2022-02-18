@@ -1,20 +1,19 @@
 <br />
-
-<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/hypn0x/hypn0x/blob/main/pics/aeq.gif" width="300" align="right" alt="pic"/></a>
+<br />
+<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/hypn0x/hypn0x/blob/main/pics/near.png" width="300" align="right" alt="pic"/></a>
 
 - Currently studying C/C++ at 42Lausanne.
 - Mostly interessted in open-source and linux.
-- Pro bug developer.
+- Everyday releasing new bugs.
 - I use Arch BTW.
 
 <br />
-<br />
-<br />
-<br />
 
-### Current school status:
+
+
+##### Current school status:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hsabir?darkmode=false)](https://github.com/JaeSeoKim/badge42)
-
+<br></br>
 
 ### GitHub Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
