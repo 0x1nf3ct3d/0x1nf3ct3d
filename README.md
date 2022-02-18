@@ -34,5 +34,12 @@
 </div>
 
 ### Mostly used languages:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hypn0x&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hypn0x&theme=nord_dark)
+<div>
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hypn0x&theme=nord_dark"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hypn0x&theme=nord_dark"/>
+    </a>  
+    </a>
+</div>
