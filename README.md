@@ -12,7 +12,7 @@
     </a>    
     </a>
     <a><h2>Twitter</h2></a>
-    <a href="https://twitter.com/0xb1n4r">
+    <a href="https://github.com/lowlighter/metrics">
         <img width="500" alt= "tweets" src="/tweets.svg"/>
     </a>
 </div>
