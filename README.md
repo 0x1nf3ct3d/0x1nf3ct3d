@@ -1,6 +1,6 @@
 <br />
 <br />
-<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/hypn0x/hypn0x/blob/main/pics/near.png" width="300" align="right" alt="pic"/></a>
+<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/hypn0x/hypn0x/blob/main/pics/greyhat_penguin.png" width="300" align="right" alt="pic"/></a>
 
 - Currently studying C/C++ at 42Lausanne.
 - Mostly interessted in open-source and linux.
