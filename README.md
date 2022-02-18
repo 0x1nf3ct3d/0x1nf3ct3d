@@ -1,5 +1,7 @@
+# Hi, I'm Hypnos, the personification of sleep acoording to wikipedia.
+
 <br />
-<br />
+
 <a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/hypn0x/hypn0x/blob/main/pics/greyhat_penguin.png" width="300" align="right" alt="pic"/></a>
 
 - Currently studying C/C++ at 42Lausanne.
@@ -7,18 +9,11 @@
 - Everyday releasing new bugs.
 - I use Arch BTW.
 
-<br />
-
 
 
 ##### Current school status:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hsabir?darkmode=false)](https://github.com/JaeSeoKim/badge42)
 <br></br>
-
-### GitHub Trophies:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hypn0x&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
 
 
 ### Stats:
