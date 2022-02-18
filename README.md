@@ -1,3 +1,15 @@
+<br />
+
+- Currently studying C/C++ at 42Lausanne.
+- Mostly interessted in open-source and linux.
+- Pro bug developer.
+- I use Arch BTW.
+
+<br />
+<br />
+<br />
+<br />
+
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hsabir?darkmode=false)](https://github.com/JaeSeoKim/badge42)
 <a><h2>Stats</h2></a>
 <div>
