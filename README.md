@@ -17,12 +17,12 @@
 <br />
 <br />
 
-##### Current school status:
+### Current school status:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hsabir?darkmode=false)](https://github.com/JaeSeoKim/badge42)
 
 
 
-### Stats:
+### Github Status:
 <div>
   <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=hypn0x&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
@@ -33,7 +33,7 @@
     </a>
 </div>
 
-### Mostly used languages:
+### Mostly used languages on (GITHUB):
 <div>
   <a href="https://github-readme-stats.vercel.app">
         <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hypn0x&theme=nord_dark"/>
