@@ -18,7 +18,7 @@
 <br />
 
 ### Current school status:
-[![hsabir's 42 stats](https://badge42.vercel.app/api/v2/cl1m1teex001609l5tf9pp0au/stats?cursusId=9&coalitionId=191)](https://github.com/JaeSeoKim/badge42)
+[![hsabir's 42 stats](https://badge42.vercel.app/api/v2/cl1m1teex001609l5tf9pp0au/stats?cursusId=21&coalitionId=191)](https://github.com/JaeSeoKim/badge42)
 
 
 ### Github Status:
