@@ -24,10 +24,10 @@
 ### Github Status:
 <div>
   <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=chmodeed&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=n0bits&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chmodeed&theme=onedark&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=n0bits&theme=onedark&hide_border=true"/>
     </a>  
     </a>
 </div>
@@ -35,10 +35,10 @@
 ### Mostly used languages on (GITHUB):
 <div>
   <a href="https://github-readme-stats.vercel.app">
-        <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chmodeed&theme=nord_dark"/>
+        <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n0bits&theme=nord_dark"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmodeed&theme=nord_dark"/>
+        <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n0bits&theme=nord_dark"/>
     </a>  
     </a>
 </div>
